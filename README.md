@@ -6,12 +6,12 @@ This project implements JWT-based authentication in a Spring Boot application wi
 📌 Features
 
 ✅ User Registration & Login<br>
-✅ Secure API endpoints using JWT
-✅ Password hashing with BCryptPasswordEncoder
-✅ Stateless authentication using Spring Security
-✅ CORS Configuration for frontend integration
-✅ Custom JWTAuthenticationFilter
-✅ Role-based authentication (can be extended)
+✅ Secure API endpoints using JWT<br>
+✅ Password hashing with BCryptPasswordEncoder<br>
+✅ Stateless authentication using Spring Security<br>
+✅ CORS Configuration for frontend integration<br>
+✅ Custom JWTAuthenticationFilter<br>
+
 
 ⸻
 
