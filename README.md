@@ -16,11 +16,11 @@ This project implements JWT-based authentication in a Spring Boot application wi
 ⸻
 
 🛠 Tech Stack
-	•	Spring Boot 3
-	•	Spring Security
-	•	JWT (JSON Web Token)
-	•	Spring Data JPA
-	•	H2 / MySQL / PostgreSQL (Any Database)
+	•	Spring Boot 3<br>
+	•	Spring Security<br>
+	•	JWT (JSON Web Token)<br>
+	•	Spring Data JPA<br>
+	•	H2 / MySQL / PostgreSQL (Any Database)<br>
 	•	Maven
  
 
@@ -40,8 +40,8 @@ GET	/auth/getUsers	Fetch all users (JWT Required)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/jwt-auth-spring-boot.git
-cd jwt-auth-spring-boot
+git clone [https://github.com/yourusername/jwt-auth-spring-boot.git](https://github.com/manirajyadav-1/JWTAuthentication-SpringBoot-React.git)
+cd JWTAuthentication-SpringBoot-React
 
 2️⃣ Configure Database
 
